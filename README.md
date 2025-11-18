@@ -7,3 +7,9 @@ Chúng ta sẽ kết hợp mọi thứ đã học về Hiệu năng (Performance
 <p> 3️⃣ Profile (VisualVM): Soi vào bên trong để tìm thủ phạm.</p>
 <p> 4️⃣ Tối ưu hóa (Fix): Sửa code.</p>
 <p> 5️⃣ Verify: Test lại để chứng minh hiệu quả</p>
+
+
+How to run this code:
+```
+https://docs.google.com/document/d/1Erc5u2EpP6tLfdDTAkUzEPFOHGKaQG-gTtnCLOiQN1s/edit?usp=sharing
+```
